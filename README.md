@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/minicomp/ed.svg?branch=master)](https://travis-ci.org/minicomp/ed) [![Gem Version](https://badge.fury.io/rb/ed..svg)](https://badge.fury.io/rb/ed.)
 
-![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
+![Beinecke MS 1166](https://github.com/oldfrenchtexts/randomtexts/blob/master/assets/Beinecke%20MS%201166%20Small.jpg)
 
 
 ## Introduction
