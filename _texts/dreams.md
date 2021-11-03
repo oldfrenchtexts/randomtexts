@@ -1,5 +1,5 @@
 ---
-layout: Poem
+layout: poem
 title: Prologue
 author: Marie de France
 editor: Aaron Kestle
