@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Random Old French Texts
+tagline:             'Some Random Old French Texts'
+description:         'Some Transcriptions and Translations of Old French Texts'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/randomtexts'
 
 # About/contact
 author:
