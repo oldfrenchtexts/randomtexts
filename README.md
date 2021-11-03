@@ -11,7 +11,7 @@ This is my sandbox, here I am god!
 
 I'm going to put some old French texts up in transcription and translation. 
 
-I think it will be fun
+I think it will be fun... maybe?
 
 
 ## This will soon be links to the various texts I prepare.
