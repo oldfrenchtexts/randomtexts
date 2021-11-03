@@ -1,16 +1,13 @@
 ---
-layout: poem
-title: Dreams
-author: Langston Hughes
-editor: Alex Gil
-source: Project Guttenberg
+layout: Poem
+title: Prologue
+author: Marie de France
+editor: Aaron Kestle
+source: Rychner Edition
 ---
 
-- Hold fast to dreams
-- For if dreams die
-- Life is a broken-winged bird
-- That cannot fly.
-- Hold fast to dreams
-- For when dreams go
-- Life is a barren field
-- Frozen with snow.
+- Ki Deus ad duné escïence
+- E de parler bone eloquence
+- Ne s'en deit taisir ne celer
+- Ainz se deit voluntiers mustrer.
+- ... 
