@@ -10,12 +10,12 @@ source: Beinecke MS 1166
 
 # Transcription
 
-**Ave** Maria gracia plena dominus tecum
+**Ave** maria gracia plena dominus tecum
 
-**A** toy roy souverain, mon trespuissant createur, mon tresamoureux redempteur, Jhesus
+**A** toy roy souverain mon trespuissant createur mon tresamoureux redempteur jhesus
 
 # Translation
 
-Latin: Greetings Mary full of grace, the lord is with you
+Latin: Greetings, Mary, full of grace, the lord is with you
 
 French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
