@@ -5,7 +5,6 @@ author: Julia de Burgos
 editor: Alex Gil
 source: Ciudad Seva
 ---
-
 ![Beinecke MS 1166](https://github.com/oldfrenchtexts/randomtexts/blob/master/assets/Beinecke%20MS%201166%20Small.jpg)
 
 - Ya las gentes murmuran que yo soy tu enemiga
