@@ -6,7 +6,7 @@ editor: Alex Gil
 source: Ciudad Seva
 ---
 
-![alt text](https://github.com/oldfrenchtexts/randomtexts/blob/master/assets/Beinecke%20MS%201166%20Small.jpg)
+![Beinecke MS 1166](https://github.com/oldfrenchtexts/randomtexts/blob/master/assets/Beinecke%20MS%201166%20Small.jpg)
 
 - Ya las gentes murmuran que yo soy tu enemiga
 - porque dicen que en verso doy al mundo mi yo.
