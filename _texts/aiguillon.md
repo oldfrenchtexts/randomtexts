@@ -10,9 +10,9 @@ source: Beinecke MS 1166
 
 # Transcription
 
-Ave Maria gracia plena dominus tecum
+**A**ve Maria gracia plena dominus tecum
 
-A toy roy souverain, mon trespuissant createur, mon tresamoureux redempteur, Jhesus
+**A** toy roy souverain, mon trespuissant createur, mon tresamoureux redempteur, Jhesus
 
 # Translation
 
