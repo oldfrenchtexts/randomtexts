@@ -1,10 +1,11 @@
 ---
-layout: poem
+layout: narrative
 title: A Julia de Burgos
 author: Julia de Burgos
 editor: Alex Gil
 source: Ciudad Seva
 ---
+
 ![Beinecke MS 1166](https://github.com/oldfrenchtexts/randomtexts/blob/master/assets/Beinecke%20MS%201166%20Small.jpg)
 
 - Ya las gentes murmuran que yo soy tu enemiga
@@ -56,6 +57,7 @@ source: Ciudad Seva
 - Tú, clavada al estático dividendo ancestral,
 - y yo, un uno en la cifra del divisor
 - social somos el duelo a muerte que se acerca fatal.
+{:.poetry}
 
 - Cuando las multitudes corran alborotadas
 - dejando atrás cenizas de injusticias quemadas,
