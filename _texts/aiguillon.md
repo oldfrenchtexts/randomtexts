@@ -16,6 +16,6 @@ source: Beinecke MS 1166
 
 # Translation
 
-Latin: Greetings, Mary, full of grace, the lord is with you
+Latin: Hail, Mary, full of grace, the lord is with thee
 
 French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
